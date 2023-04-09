@@ -28,7 +28,7 @@ public class Program
         Console.WriteLine(pesan_keluar);
 
         Console.WriteLine("\n\n");
-        Console.WriteLine("---========Mengubah satuan ke fahhrenheit======---");
+        Console.WriteLine("---========Menjalankan method UbahSatuan======---");
         Console.WriteLine("\n\n");
 
         covig.UbahSatuan();

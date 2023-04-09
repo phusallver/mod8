@@ -50,6 +50,7 @@ namespace mod8
         {
             konfig.satuan_suhu = (konfig.satuan_suhu == "celcius") ?
                 "fahrenheit" : "celcius";
+            WriteKonfigFile();
         }
     }
 }
