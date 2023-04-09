@@ -1,0 +1,15 @@
+C:\Users\USER\OneDrive\Documents\git\mod8\bin\Debug\net6.0\mod8.exe
+C:\Users\USER\OneDrive\Documents\git\mod8\bin\Debug\net6.0\mod8.deps.json
+C:\Users\USER\OneDrive\Documents\git\mod8\bin\Debug\net6.0\mod8.runtimeconfig.json
+C:\Users\USER\OneDrive\Documents\git\mod8\bin\Debug\net6.0\mod8.dll
+C:\Users\USER\OneDrive\Documents\git\mod8\bin\Debug\net6.0\mod8.pdb
+C:\Users\USER\OneDrive\Documents\git\mod8\obj\Debug\net6.0\mod8.csproj.AssemblyReference.cache
+C:\Users\USER\OneDrive\Documents\git\mod8\obj\Debug\net6.0\mod8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\OneDrive\Documents\git\mod8\obj\Debug\net6.0\mod8.AssemblyInfoInputs.cache
+C:\Users\USER\OneDrive\Documents\git\mod8\obj\Debug\net6.0\mod8.AssemblyInfo.cs
+C:\Users\USER\OneDrive\Documents\git\mod8\obj\Debug\net6.0\mod8.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Documents\git\mod8\obj\Debug\net6.0\mod8.dll
+C:\Users\USER\OneDrive\Documents\git\mod8\obj\Debug\net6.0\refint\mod8.dll
+C:\Users\USER\OneDrive\Documents\git\mod8\obj\Debug\net6.0\mod8.pdb
+C:\Users\USER\OneDrive\Documents\git\mod8\obj\Debug\net6.0\mod8.genruntimeconfig.cache
+C:\Users\USER\OneDrive\Documents\git\mod8\obj\Debug\net6.0\ref\mod8.dll
